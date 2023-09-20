@@ -1,0 +1,2 @@
+# Bus_Counter
+In my childhood, I used to enjoy counting buses whenever I saw them on the road. To make this hobby more fun and organized, I created an app. This app has a button, and every time I click it, the app adds one to the count of buses I've seen. It also lets me save this count so I can keep track of it over time. It's a simple and enjoyable way for me to keep a record of my bus-counting hobby.
